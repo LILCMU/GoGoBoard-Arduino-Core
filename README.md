@@ -1,4 +1,4 @@
-# The GoGo Board 6.x firmware for an arduino core
+# The GoGo Board 6.x firmware for an Arduino Core
 This firmware enabled default features of 3 digital ports on arduino core side (bottom-left of the board). This consists of temperature / humidity (SHT31), ultrasonic distance (Grove ultrasonic) and rgb leds (Grove NeoPixels).
 
 ---
